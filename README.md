@@ -1,7 +1,9 @@
 # 빅데이터자연어처리기술 Final Report(20년도 2학기)
 [1] 임희석 교수님 빅데이터자연어처리기술 과목 기말고사 대체과제입니다.
 
-[2] Natural Language Processing Final Project
+[2] 소스코드 및 README 파일 제출 건입니다.
+
+[3] 소스코드에는 데이터 전처리, 모델 선언/학습/평가, Kaggle Competition Data Set에 대한 예측까지 포함되어 있습니다.
 
 # 파일 설명
 [1] EmotionLines_friends_annotation.tar.gz
