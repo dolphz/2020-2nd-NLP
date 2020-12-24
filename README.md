@@ -1,5 +1,6 @@
 # 빅데이터자연어처리기술 Final Report(20년도 2학기)
 [1] 임희석 교수님 빅데이터자연어처리기술 과목 기말고사 대체과제입니다.
+
 [2] Natural Language Processing Final Project
 
 # 파일 설명
@@ -26,26 +27,36 @@
 [1] 파일 2개 다운로드
 - NSMC_감정분석기.ipynb
 - kaggle.json
+
 [2] Google Colab 접속 및 로그인
+
 [3] 파일 > 노트 업로드 > 업로드 Tab > 파일 선택 > NSMC_감정분석기.ipynb > 열기
+
 [4] 소스코드를 순차적으로 실행하되, 아래 코드 실행 시 명령어 프롬프트에서 파일 선택 > kaggle.json > 열기
 - !pip install kaggle
 - from google.colab import files
 - files.upload()
+
 [5] kaggle.json 파일이 정상적으로 Import 된 것을 확인한 후 다음 소스코드 순차적으로 실행
+
 [6] 실행 완료 후 생성된 sample.csv 파일을 보면 모델이 Kaggle Competition Test Set에 대해 예측한 Label 값이 ID 순서대로 기입되어 있다.
 
 # 영어 감정분석기 실행 방법
 [1] 파일 2개 다운로드
 - Friends_감정분석기.ipynb
 - kaggle.json
+
 [2] Google Colab 접속 및 로그인
+
 [3] 파일 > 노트 업로드 > 업로드 Tab > 파일 선택 > Friends_감정분석기.ipynb > 열기
+
 [4] 소스코드를 순차적으로 실행하되, 아래 코드 실행 시 명령어 프롬프트에서 파일 선택 > kaggle.json > 열기
 - !pip install kaggle
 - from google.colab import files
 - files.upload()
+
 [5] kaggle.json 파일이 정상적으로 Import 된 것을 확인한 후 다음 소스코드 순차적으로 실행
+
 [6] 실행 완료 후 생성된 sample.csv 파일을 보면 모델이 Kaggle Competition Test Set에 대해 예측한 Label 값이 ID 순서대로 기입되어 있다.
 
 # 참고 문헌 및 소스코드
